@@ -35,6 +35,8 @@ async function insertOne() {
     console.log(savedDoc); 
 }
 
+// Function to add many document
+
 
 async function main() { 
  
